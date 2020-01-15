@@ -1,14 +1,17 @@
-# Roasted Tomatillos
+# Tomatillos
 
 Group project (Mod3)
-
-## Description
 
 ## Authors
 
 [Raisa Primerova](https://github.com/RayRedGoose)
 [Cameron MacRae](https://github.com/cammac60)
 [Andrew Kinstler](https://github.com/andrewckinstler)
+
+
+## Description
+
+Tomatillos is a service to see movie ratings where logged user can add own rating to any movie
 
 ## Screenshots
 
