@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Tomatillos/static/css/main.fc7920c5.chunk.css",
+    "main.js": "/Tomatillos/static/js/main.ff51d11d.chunk.js",
+    "main.js.map": "/Tomatillos/static/js/main.ff51d11d.chunk.js.map",
+    "runtime-main.js": "/Tomatillos/static/js/runtime-main.02c9fcb2.js",
+    "runtime-main.js.map": "/Tomatillos/static/js/runtime-main.02c9fcb2.js.map",
+    "static/js/2.cdb18566.chunk.js": "/Tomatillos/static/js/2.cdb18566.chunk.js",
+    "static/js/2.cdb18566.chunk.js.map": "/Tomatillos/static/js/2.cdb18566.chunk.js.map",
+    "index.html": "/Tomatillos/index.html",
+    "precache-manifest.eb9583a08dadf5d5f526835aeb0d3ae0.js": "/Tomatillos/precache-manifest.eb9583a08dadf5d5f526835aeb0d3ae0.js",
+    "service-worker.js": "/Tomatillos/service-worker.js",
+    "static/css/main.fc7920c5.chunk.css.map": "/Tomatillos/static/css/main.fc7920c5.chunk.css.map",
+    "static/js/2.cdb18566.chunk.js.LICENSE": "/Tomatillos/static/js/2.cdb18566.chunk.js.LICENSE",
+    "static/media/App.scss": "/Tomatillos/static/media/Delphi-Lux-cinema-1-1024x682.37584182.jpg",
+    "static/media/camera.svg": "/Tomatillos/static/media/camera.70b57f12.svg",
+    "static/media/cancel.svg": "/Tomatillos/static/media/cancel.1d087161.svg",
+    "static/media/delete.svg": "/Tomatillos/static/media/delete.4236a780.svg",
+    "static/media/film-reel.svg": "/Tomatillos/static/media/film-reel.d16afa6f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02c9fcb2.js",
+    "static/js/2.cdb18566.chunk.js",
+    "static/css/main.fc7920c5.chunk.css",
+    "static/js/main.ff51d11d.chunk.js"
+  ]
+}
