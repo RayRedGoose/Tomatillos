@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tomatillos/precache-manifest.eb9583a08dadf5d5f526835aeb0d3ae0.js"
+  "/Tomatillos/precache-manifest.54c3dd9eba1cf676d21ded4d0a11898e.js"
 );
 
 self.addEventListener('message', (event) => {
